@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-4-26-Multiple Thinking Achieving Meta-Ability Decoupling for Object Navigation.md
 excerpt: 'This article proposes a new paradigm of meta-capability decoupling for Embodied AI tasks, which fully improves the interpretability, transferability and scalability of the model.'
 date: 2023-4-06
-venue: 'ICML 2023'
+venue: 'ICML'
 paperurl: 'http://academicpages.github.io/files/MAD.pdf'
 citation: 'Dang, Ronghao, et al. "Multiple thinking achieving meta-ability decoupling for object navigation." arXiv preprint arXiv:2302.01520 (2023).'
 ---

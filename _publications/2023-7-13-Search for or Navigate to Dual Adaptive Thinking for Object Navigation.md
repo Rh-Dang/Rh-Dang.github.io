@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-7-13-Search for or Navigate to Dual Adaptive Thinking for Object Navigation
 excerpt: 'This paper proposes a dual adaptive thinking (DAT) model, allowing the agent to adaptively adjust whether to use search thinking or navigation thinking in the process of object navigation.'
 date: 2023-7-13
-venue: 'ICCV 2023'
+venue: 'ICCV'
 paperurl: 'http://academicpages.github.io/files/Dual_Adaptive_Thinking_for_Object_Navigation.pdf'
 citation: 'Dang, Ronghao, et al. "Search for or Navigate to? Dual Adaptive Thinking for Object Navigation." arXiv preprint arXiv:2208.00553 (2022).'
 ---
