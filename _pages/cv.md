@@ -12,10 +12,12 @@ redirect_from:
 Education
 ======
 * B.S. in Department of Electronic and Information Engineering, Tongji University, 2017-2021
-  Major in: Automation
+  * Major in: Automation
+  * Awards: The First Prize Scholarship (2018, 2019, 2021), 
 * M.S. in Robotics and Artifical Intelligence Lab (RAIL Lab), Tongji University, 2021-2024 
-  Topic: Large Multimodal Model, Visual Object Navigation, Artifical Intelligence 
-  Supervisor: Prof. Chengju Liu
+  * Topic: Large Multimodal Model, Visual Object Navigation, Artifical Intelligence 
+  * Supervisor: Prof. Chengju Liu
+  * Awards: The First Prize Scholarship (2022)
 
 Work Experience
 ======
