@@ -1,7 +1,7 @@
 ---
 title: "Multiple Thinking Achieving Meta-Ability Decoupling for Object Navigation"
 collection: publications
-permalink: /publication/2023-4-26-Multiple Thinking Achieving Meta-Ability Decoupling for Object Navigation.md
+permalink: /publication/2023-4-26-Multiple Thinking Achieving Meta-Ability Decoupling for Object Navigation
 excerpt: 'This article proposes a new paradigm of meta-capability decoupling for Embodied AI tasks, which fully improves the interpretability, transferability and scalability of the model.'
 date: 2023-4-06
 venue: 'ICML'
