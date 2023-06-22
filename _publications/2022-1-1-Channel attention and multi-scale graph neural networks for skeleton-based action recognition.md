@@ -1,0 +1,13 @@
+---
+title: "Channel attention and multi-scale graph neural networks for skeleton-based action recognition"
+collection: publications
+permalink: /publication/2022-1-1-Channel attention and multi-scale graph neural networks for skeleton-based action recognition
+excerpt: 'This paper applies the channel attention graph nerual network and multi-scale TCN significantly improves the skeleton-based action recognition'
+date: 2022-1-1
+venue: 'AI COMMUNICATION'
+paperurl: 'http://academicpages.github.io/files/CA-MSN.pdf'
+citation: 'Dang, Ronghao, et al. "Channel attention and multi-scale graph neural networks for skeleton-based action recognition." AI Communications Preprint (2022): 1-19'
+---
+Abstract: 3D skeleton data has been widely used in action recognition as the skeleton-based method has achieved good performance in complex dynamic environments. The rise of spatio-temporal graph convolutions has attracted much attention to use graph convolution to extract spatial and temporal features together in the field of skeleton-based action recognition. However, due to the huge difference in the focus of spatial and temporal features, it is difficult to improve the efficiency of extracting the spatiotemporal features. In this paper, we propose a channel attention and multi-scale neural network (CA-MSN) for skeleton-based action recognition with a series of spatio-temporal extraction modules. We exploit the relationship of body joints hierarchically through two modules, i.e., a spatial module which uses the residual GCN network with the channel attention block to extract the high-level spatial features, and a temporal module which uses the multi-scale TCN network to extract the temporal features at different scales. We perform extensive experiments on both the NTU-RGBD60 and NTU-RGBD120 datasets to verify the effectiveness of our network. The comparison results show that our method achieves the state-of-the-art performance with the competitive computing speed. In order to test the application effect of our CA-MSN model, we design a multi-task tandem network consisting of 2D pose estimation, 2D to 3D pose regression and skeleton action recognition model. The end-to-end (RGB video-to-action type) recognition effect is demonstrated. The code is available at https://github.com/Rh-Dang/CA-MSN-action-recognition.git.
+
+[Download paper here](http://academicpages.github.io/files/CA-MSN.pdf)

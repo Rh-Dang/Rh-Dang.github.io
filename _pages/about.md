@@ -70,7 +70,7 @@ Selected Publications
   <br>
   ACM International Conference on Multimedia (**ACMMM**), 2022
   <br>
-  [CODE](https://github.com/Rh-Dang/DOA)
+  [[code]](https://github.com/Rh-Dang/DOA)
 - Channel attention and multi-scale graph neural networks for skeleton-based action recognition
   <br>
   **Ronghao Dang**, Chengju Liu, Ming Liu, Qijun Chen
