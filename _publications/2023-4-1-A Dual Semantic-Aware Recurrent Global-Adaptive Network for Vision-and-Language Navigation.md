@@ -1,8 +1,7 @@
 ---
 title: "A Dual Semantic-Aware Recurrent Global-Adaptive Network for Vision-and-Language Navigation"
 collection: publications
-permalink: /publication/2023-4-1-A Dual Semantic-Aware Recurrent Global-Adaptive Network for
-Vision-and-Language Navigation
+permalink: /publication/2023-4-1-A Dual Semantic-Aware Recurrent Global-Adaptive Network for Vision-and-Language Navigation
 excerpt: 'This work proposes a dual semantic-aware recurrent global-adaptive network (DSRG) to address two problems in VLN. (1) The explicit information mining for significant guiding semantics concealed in both vision and language is still under-explored; (2) The previously structured map method provides the average historical appearance of visited nodes, while it ignores distinctive contributions of various images and potent information retention in the reasoning process.'
 date: 2023-4-1
 venue: 'IJCAI'
